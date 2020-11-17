@@ -17,7 +17,6 @@ The WiFiEsp library has been designed to work with the [ESP WiFi shield](https:/
 
 # Examples
 
-ConnectWPA - Demonstrates how to connect to a network that is encrypted with WPA2 Personal
 
 WebClient - Connect to a remote webserver
 
@@ -25,7 +24,7 @@ WebServer - Serve a webpage from the WiFi shield
 
 WebServerAP - Serve a webpage from the WiFi shield starting a local Access Point
 
-WebServerLed - Turn on and off a led from a webpage
+
 
 
 # Supported APIs
