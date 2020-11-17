@@ -30,7 +30,7 @@ The WiFiEsp library has been designed to work with the [ESP WiFi shield](https:/
 # Supported APIs
 Most of the standard Arduino WiFi library methods are available. Refer to the [WiFi library page](https://www.arduino.cc/en/Reference/WiFi) for more details.
 
-#ESP8266 12-E NodeMCU Kit
+# ESP8266 12-E NodeMCU Kit
 
 The ESP8266 12-E NodeMCU kit pinout diagram is shown below.
 
