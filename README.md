@@ -2,7 +2,7 @@
 
 With an ESP8266 board, WiFiEsp library allows an Arduino board to connect to the internet.
 It can serve as either a server accepting incoming connections or a client making outgoing ones.
-The WiFiEsp library is very similar to the Arduino WiFi and Ethernet libraries, and many of the function calls are the same.
+The WiFi Esp library is very similar to the Arduino [WiFi](https://www.arduino.cc/en/Reference/WiFi) and Ethernet libraries, and many of the function calls are the same.
 
 Supports ESP SDK version 1.1.1 and above (AT version 0.25 and above).
 
@@ -29,4 +29,4 @@ WebServerLed - Turn on and off a led from a webpage
 
 
 # Supported APIs
-Most of the standard Arduino WiFi library methods are available. Refer to the WiFi library page for more details.
+Most of the standard Arduino WiFi library methods are available. Refer to the [WiFi library page](https://www.arduino.cc/en/Reference/WiFi) for more details.
