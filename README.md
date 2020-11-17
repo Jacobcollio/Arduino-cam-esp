@@ -21,5 +21,6 @@ WebServer - Serve a webpage from the WiFi shield
 WebServerAP - Serve a webpage from the WiFi shield starting a local Access Point
 WebServerLed - Turn on and off a led from a webpage
 UdpNTPClient - Query a Network Time Protocol (NTP) server using UDP
-Supported APIs
+
+# Supported APIs
 Most of the standard Arduino WiFi library methods are available. Refer to the WiFi library page for more details.
