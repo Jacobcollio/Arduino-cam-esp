@@ -1,4 +1,4 @@
-# Arduino-cam-esp
+# Arduino-esp8266
 
 With an ESP8266 board, WiFiEsp library allows an Arduino board to connect to the internet.
 It can serve as either a server accepting incoming connections or a client making outgoing ones.
