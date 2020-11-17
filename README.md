@@ -34,6 +34,7 @@ Most of the standard Arduino WiFi library methods are available. Refer to the [W
 
 The ESP8266 12-E NodeMCU kit pinout diagram is shown below.
 
+![initial](https://user-images.githubusercontent.com/70785525/99380401-3f679a00-290d-11eb-813d-d1c7c532957f.png)
 
 
 
