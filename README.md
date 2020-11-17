@@ -18,14 +18,17 @@ The WiFiEsp library has been designed to work with the [ESP WiFi shield](https:/
 # Examples
 
 
-WebClient - Connect to a remote webserver
+[WebClient](https://github.com/Jacobcollio/Arduino-cam-esp/tree/main/ESP8266WiFi/examples/WiFiClient) - Connect to a remote webserver
 
-WebServer - Serve a webpage from the WiFi shield
+[WebServer](https://github.com/Jacobcollio/Arduino-cam-esp/tree/main/ESP8266-wifi%20connected-webserver/examples/AdvancedWebServer) - Serve a webpage from the WiFi shield
 
-WebServerAP - Serve a webpage from the WiFi shield starting a local Access Point
+[WebServerAP](https://github.com/Jacobcollio/Arduino-cam-esp/tree/main/ESP8266WiFi/examples/WiFiAccessPoint) - Serve a webpage from the WiFi shield starting a local Access Point
 
 
 
 
 # Supported APIs
 Most of the standard Arduino WiFi library methods are available. Refer to the [WiFi library page](https://www.arduino.cc/en/Reference/WiFi) for more details.
+
+
+
