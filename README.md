@@ -13,7 +13,7 @@ Support hardware and software serial ports.
 Configurable tracing level.
 
 # Wiring
-The WiFiEsp library has been designed to work with the ESP WiFi shield<https://www.espruino.com/arduino-esp8266>. It is a cheap version of the Arduino WiFi shield that uses an ESP-01 module to provide networking capabilities to Arduino boards.
+The WiFiEsp library has been designed to work with the (ESP WiFi shield<https://www.espruino.com/arduino-esp8266>). It is a cheap version of the Arduino WiFi shield that uses an ESP-01 module to provide networking capabilities to Arduino boards.
 
 # Examples
 
